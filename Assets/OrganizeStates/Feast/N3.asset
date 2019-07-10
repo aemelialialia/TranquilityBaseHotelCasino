@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: N3
+  m_EditorClassIdentifier: 
+  storyText: You sat down at the bar with one of the old men who you think is pretty
+    cool. He is knowledgeable, elegant and smart. You have seen him around playing
+    games and chattering with people around. People seem to quite like him. He asks
+    if you know the history of this hotel.
+  nextState:
+  - {fileID: 11400000, guid: 3f891506e05d2f14da9210ff0fa39054, type: 2}
+  - {fileID: 11400000, guid: 9e657e61524d44146907a91cc13f9e56, type: 2}
+  buttons:
+  - Yes, I do.
+  - No, I don't.
+  - 
+  - 

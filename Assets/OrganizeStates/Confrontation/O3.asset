@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: O3
+  m_EditorClassIdentifier: 
+  storyText: '"I''m running from the police. I''ve done something terrible." You remembered
+    the night you broke out of prison.
+
+    The figure stares into your eyes, looking surprised. "I didn''t expect you to
+    tell the truth so quickly. So I guess you have experienced your personal hell
+    - the prison? Well I can promise you that this is way different. A lot of... tranquility...
+    goes around here." The figure looks around. He held our his hand to you. In his
+    palms, there is a token for the casino downstairs. "Go to the feast, find the
+    other token that pairs up with this. You still have hope." Then he disappeared,
+    leaving you the token. '
+  nextState: []
+  buttons:
+  - 
+  - 
+  - 
+  - 
+  - Take the Token
+  sceneToLoad: 3
+  shouldLoadButton: 1

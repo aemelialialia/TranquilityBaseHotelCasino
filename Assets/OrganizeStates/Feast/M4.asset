@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: M4
+  m_EditorClassIdentifier: 
+  storyText: Throughout the night, you've been having conversations with other guests,
+    you're having a great time. All the guests seem to know this place very well,
+    as if they have been here multiple times, or for a very long time, some of them
+    are very young. In a hotel in the middle of nowhere, you suppose it is quite common.
+  nextState:
+  - {fileID: 11400000, guid: c378a53d516dc4c42ba2a8d8b94dfc8b, type: 2}
+  buttons:
+  - Sit down with an interesting old man
+  - (Really, you don't have other choices)
+  - 
+  - 

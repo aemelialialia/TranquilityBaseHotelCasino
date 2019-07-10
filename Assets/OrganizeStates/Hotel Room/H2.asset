@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: H2
+  m_EditorClassIdentifier: 
+  storyText: You really can't stand the fact that there's something under the bed,
+    so you picked up the phone next to the bed and called room service. It went straight
+    to dial tone. Confused, you pick up your phone to find that your phone has no
+    service too.
+  nextState:
+  - {fileID: 11400000, guid: d44762b8f5a8ebc40b89269036322a2c, type: 2}
+  - {fileID: 11400000, guid: 15a49a96cb640884bbe9ddbcad495890, type: 2}
+  buttons:
+  - Leave the Roonm
+  - Look out of the window
+  - 
+  - 

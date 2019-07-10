@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: C1
+  m_EditorClassIdentifier: 
+  storyText: "You followed Mark, walking into this grandeur of elevator lobby. You
+    marvel at the beauty and the antiquity of this hotel. After Mark closed the elevator
+    sliding door, they went up three floors. As they approaches the mahogany door,
+    you put down your bags and hear Mark sighs, \"Oh no, not again. I forgot your
+    keys. Let me go down and grab them. I'll be right back. Don't move!\" As he runs
+    downstairs, grabs an old-fashioned bronze key from the key cabinet. Runs back
+    upstairs.\r\n"
+  nextState:
+  - {fileID: 11400000, guid: d906bfb294eeb2b4fb289378d04b39bb, type: 2}
+  buttons:
+  - Enter the Room
+  - 
+  - 
+  - 
+  - 

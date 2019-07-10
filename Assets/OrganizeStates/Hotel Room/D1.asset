@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: D1
+  m_EditorClassIdentifier: 
+  storyText: "As Mark opens the door, you are welcomed with a nice, cozy and well-lit
+    room.\r\n\"Here's your room, sir. I'll put your luggage at the door. Breakfast
+    is complementary. Tomorrow night we have a feast for all of our guests to celebrate
+    the founding of this hotel. The location will be in the casino room.\""
+  nextState:
+  - {fileID: 11400000, guid: 5ed6c408a4c6aed4ca15050952132b77, type: 2}
+  - {fileID: 11400000, guid: 0b26fcfc246f0f544bfabad98e784591, type: 2}
+  - {fileID: 11400000, guid: 6f21cfa5131e86c429a55863bfa23379, type: 2}
+  buttons:
+  - Tip and ask him about the feast
+  - No tip and ask him about the feast
+  - Tip and ask him about the history of the hotel
+  - 

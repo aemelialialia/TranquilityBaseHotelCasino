@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: G2
+  m_EditorClassIdentifier: 
+  storyText: "There is a variety of alcohol and club sodas. There's a note left behind.\r\n\"All
+    the drinks are paid for. Enjoy.\""
+  nextState:
+  - {fileID: 11400000, guid: 47542abc289d6914d9924355977d2954, type: 2}
+  - {fileID: 11400000, guid: b9466934274e25a40aff61ba0b8360f4, type: 2}
+  buttons:
+  - Search the room
+  - Drink the alcohol
+  - 
+  - 
+  sceneToLoad: 
+  shouldLoadButton: 0

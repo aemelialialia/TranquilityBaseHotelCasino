@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "You walk into a buildling that's probably the tallest building in this
+    deserted village. You have travelled far to get here and you think you have made
+    enough progress in your journey to settle and rest in this hotel. You walked in
+    with your light luggage to see this place is very well furnished and probably
+    a little grand for you, but since you have no other choice, you decide to get
+    a night of rest in this place - \"Tranquility Base Hotel and Casino\".\n\nAs soon
+    as you walked in, you're greeted by the receptionist. \n\"Welcome to Tranquility
+    Base Hotel and Casino. I am Mark, I will be your host and butler for your entire
+    stay. \""
+  nextState:
+  - {fileID: 11400000, guid: 4e42e7c1567ac65469c3b4769f75c808, type: 2}
+  - {fileID: 11400000, guid: 0ba25f1f039d0ea4d928847858140fbe, type: 2}
+  buttons:
+  - Room
+  - Food
+  - 
+  - 
+  - 

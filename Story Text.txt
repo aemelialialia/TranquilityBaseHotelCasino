@@ -1,0 +1,7 @@
+You are a world-class assassin who makes no mistakes. You have ruthless and cold-hearted. 
+You are planning on going to the Bhamanas this weekend, but your boss handed you a classified file. 
+That means you got a new mission.
+	Choices {
+		- You take the file.
+		- You refuse.
+	}

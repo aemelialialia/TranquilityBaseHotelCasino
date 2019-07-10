@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: G4
+  m_EditorClassIdentifier: 
+  storyText: 'You crocheted down to see if there''s anything under your bed because
+    you swear you saw something moving there. You were hoping that there isn''t anything,
+    but turns out there are a lot of dust and scrap pieces of paper under there. '
+  nextState:
+  - {fileID: 11400000, guid: b007ae5c0be657745992937ec627b20a, type: 2}
+  - {fileID: 11400000, guid: 68146a2da743b1443a6a55645101b352, type: 2}
+  buttons:
+  - Search the room
+  - Call cleaning service
+  - Pick up the paper
+  - 

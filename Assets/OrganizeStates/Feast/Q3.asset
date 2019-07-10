@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: Q3
+  m_EditorClassIdentifier: 
+  storyText: 'Excited by the man''s proposition, you want to know what he has to say
+    next, it''s better to keep yourself enetertained. "Sure, let''s see what you got."
+    You say. The casino doors shut close behind you. The people who were happily playing
+    games suddenly stopped to look at you, you realized that they''re not humans.
+
+    The old man pulls out a golden key. "This is not to my chocolate factory, unfortunately."
+    He says, "but this might be the best deal you''ll ever get. You see, I am getting
+    old. Look at these souls around you, they used to be good people, people like
+    you, come to here for refuge, but this hotel kept them here forever."'
+  nextState:
+  - {fileID: 11400000, guid: 6b3143bf616460d43ab885c765a81b0e, type: 2}
+  buttons:
+  - '"What do you mean?"'
+  - 
+  - 
+  - 

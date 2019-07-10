@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: I5
+  m_EditorClassIdentifier: 
+  storyText: You reached the casino and realized that there are a lot of guests who
+    have already arrived. It is curious how such a small hotel can hold that many
+    guests. People are rather dressed up and walking around, as if you're in Las Vegas.
+    A waiter approached you and ask if you want any drinks.
+  nextState:
+  - {fileID: 11400000, guid: 89056c8b657a305439321b176daa23d8, type: 2}
+  - {fileID: 11400000, guid: 44ef9e2af2da83345a1f0000dc99d230, type: 2}
+  buttons:
+  - Yes, please.
+  - No, thank you.
+  - 
+  - 

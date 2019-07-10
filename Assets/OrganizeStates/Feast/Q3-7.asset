@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: Q3-7
+  m_EditorClassIdentifier: 
+  storyText: '"If you take the deal, you are the key holder of this hotel. You have
+    the power to control who comes and who goes. Of course, you can''t just lock people
+    you hate here, there''s always a consequence, and there''s a mediator to keep
+    count of people in this terminal. I trust you that you''ll do the job right."'
+  nextState:
+  - {fileID: 11400000, guid: a26dfb72bdd6e984f993466ee4d83f26, type: 2}
+  buttons:
+  - '"Is it too late to back out now?"'
+  - 
+  - 
+  - 
+  - '"I''ll take the deal!"'
+  sceneToLoad: 5
+  shouldLoadButton: 1

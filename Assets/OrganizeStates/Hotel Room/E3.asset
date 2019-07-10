@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: E3
+  m_EditorClassIdentifier: 
+  storyText: "You tipped Mark, he shows gratitude. Then you proceed to ask him about
+    the history of the hotel, because the small window rooms and the interesting interior
+    structure of the hotel spiked your curiosity.\r \"Very good question, sir. This
+    hotel was used as a nursery for orphaned girls in the late 1800s. But then it
+    was closed down. So our owner, bought the property and turned it into a hotel.\"
+    \r \"Interesting. Why did the nursery closed down?\" You said.\r\n\"I don't know,
+    sir. It's late, I better leave you to rest.\" Mark abruptly answered and left
+    the room."
+  nextState:
+  - {fileID: 11400000, guid: 11f928948f2b91e4da4801f223f1350d, type: 2}
+  - {fileID: 11400000, guid: 47542abc289d6914d9924355977d2954, type: 2}
+  buttons:
+  - 'Sleep '
+  - Search the Room
+  - 
+  - 
+  sceneToLoad: 
+  shouldLoadButton: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: E2
+  m_EditorClassIdentifier: 
+  storyText: "You thought about tipping Mark, but you think you can tip him later,
+    so you left the idea. But you're still curious about the feast. So you ask, \"so
+    what's going to happen in the feast?\"\r\nMark, looking surprised, maybe it's
+    because he just told you what it is about, continues to explain the feast, again.\r\n\"You
+    are lucky enough to catch our annual feast that celebrates the founding of Tranquility
+    Base Hotel and Casino. There will be food, games in the casino and music. You
+    will also meet other guests. There may be a surprise game for all the guests with
+    a surprise prize!.\""
+  nextState:
+  - {fileID: 11400000, guid: 11f928948f2b91e4da4801f223f1350d, type: 2}
+  buttons:
+  - Sleep
+  - 
+  - 
+  - 

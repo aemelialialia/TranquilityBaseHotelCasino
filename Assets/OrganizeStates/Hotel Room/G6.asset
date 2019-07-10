@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: G6
+  m_EditorClassIdentifier: 
+  storyText: After a long sleep, you wake up to a fresh morning with the sun shining
+    into the window. You just realized that the floor is not carpeted, which is kind
+    of nice. You get out of bed to realize it's actually around 5pm. So where did
+    the lights come from? You walked towards the window and see a giant billboard
+    across the street. That explains it.
+  nextState:
+  - {fileID: 11400000, guid: 7a90632913b0868429e4deb54ee321df, type: 2}
+  - {fileID: 11400000, guid: 7095c031568e30d408f13e55075be07b, type: 2}
+  buttons:
+  - The feast
+  - Keep sleeping
+  - 
+  - 

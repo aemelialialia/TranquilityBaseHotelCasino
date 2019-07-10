@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: G3
+  m_EditorClassIdentifier: 
+  storyText: You walked over to that blurry painting on the wall. It's a painting
+    of Jesus on a baseball.
+  nextState:
+  - {fileID: 11400000, guid: 47542abc289d6914d9924355977d2954, type: 2}
+  buttons:
+  - Search the room
+  - 
+  - 
+  - 
+  sceneToLoad: 
+  shouldLoadButton: 0

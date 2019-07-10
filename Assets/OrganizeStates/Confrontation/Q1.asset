@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: Q1
+  m_EditorClassIdentifier: 
+  storyText: "The figure grew taller and taller, picks you up from the ground and
+    threw you onto the ground. He took the bronze key that belongs to the room and
+    melt it in his hand, then he pushed the door out, then closed the door. \t"
+  nextState: []
+  buttons:
+  - 
+  - 
+  - 
+  - 
+  - Continue
+  sceneToLoad: 3
+  shouldLoadButton: 1

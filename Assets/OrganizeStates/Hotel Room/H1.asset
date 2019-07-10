@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: H1
+  m_EditorClassIdentifier: 
+  storyText: You decided to drink the alcohol because why not. After a couple shots,
+    you're feeling a bit buzzed.
+  nextState:
+  - {fileID: 11400000, guid: 11f928948f2b91e4da4801f223f1350d, type: 2}
+  buttons:
+  - Sleep
+  - 
+  - 
+  - 

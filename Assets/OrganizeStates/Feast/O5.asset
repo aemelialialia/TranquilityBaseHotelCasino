@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: O5
+  m_EditorClassIdentifier: 
+  storyText: '"Well, clearly you don''t know this place very well. But that''s ok.
+    These people here know the hotel quite too well. They''ve been very nice people,
+    but everybody has something in life that''s just... unpleasant. What would you
+    say if I tell you that you can save them all from that unpleasant thing in their
+    lives.'
+  nextState:
+  - {fileID: 11400000, guid: b4de568b78a5c9145ae8496fbe533378, type: 2}
+  - {fileID: 11400000, guid: b9d0eba4a5ad2ec4fb6700b12ea8c8a6, type: 2}
+  buttons:
+  - There's nothing I can do, sorry.
+  - Sure. Let's see what crazy ideas you got.
+  - 
+  - 

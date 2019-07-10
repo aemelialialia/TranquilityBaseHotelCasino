@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: N2
+  m_EditorClassIdentifier: 
+  storyText: '"I think you know exactly what I''m talking about, my friend. You just
+    don''t want to admit it. The second you checked into this hotel, you know you
+    are checking into something different. Has life failed you? Something not going
+    well? A person like you should be out there doing something rather than be in
+    this hotel in the middle of nowhere. What are you doing here?"'
+  nextState:
+  - {fileID: 11400000, guid: b214547363084734e91f06b0efd12c11, type: 2}
+  - {fileID: 11400000, guid: b0c361d8d4fe34a4ca06b5b5c4ad0aed, type: 2}
+  - {fileID: 11400000, guid: 28589dd77e47ef64aad1c2b84ab513cf, type: 2}
+  buttons:
+  - Business
+  - Vacation
+  - Truth
+  - 

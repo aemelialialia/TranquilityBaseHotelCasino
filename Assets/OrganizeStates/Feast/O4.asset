@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: O4
+  m_EditorClassIdentifier: 
+  storyText: '"What was the history of the hotel?" He asks.
+
+
+    {Insert Multiple Choice here, goes to O5 if answered wrong}'
+  nextState:
+  - {fileID: 11400000, guid: 9e657e61524d44146907a91cc13f9e56, type: 2}
+  - {fileID: 11400000, guid: 5971c4dd1cc25824191f0953df3ff084, type: 2}
+  - {fileID: 11400000, guid: 9e657e61524d44146907a91cc13f9e56, type: 2}
+  - {fileID: 11400000, guid: 9e657e61524d44146907a91cc13f9e56, type: 2}
+  buttons:
+  - Primary School
+  - Nursery
+  - Prison
+  - Hospital
+  sceneToLoad: 
+  shouldLoadButton: 0

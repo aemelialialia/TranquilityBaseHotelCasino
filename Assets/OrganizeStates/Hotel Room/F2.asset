@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: F2
+  m_EditorClassIdentifier: 
+  storyText: Haven't been really able to rest, the travelling makes you anxious and
+    unable to fall asleep. You decide to get up and look around the room.
+  nextState:
+  - {fileID: 11400000, guid: 3179fe9ce6b6da34cb7457fbeaa75c60, type: 2}
+  - {fileID: 11400000, guid: 3c8cbdb46c44efc4bac497383e3d0e8e, type: 2}
+  - {fileID: 11400000, guid: 11fbb8ec2118eef40af308f753448fa6, type: 2}
+  - {fileID: 11400000, guid: 75c1a44ae63ed1b4db7842d6c1e3ff7e, type: 2}
+  buttons:
+  - Check the closet
+  - Check the minibar
+  - Check the painting
+  - Check under the bed

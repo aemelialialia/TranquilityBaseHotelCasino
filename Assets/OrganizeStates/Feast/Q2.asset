@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  storyText: "You seemed a little disturbed and confused. You said, \"There's nothing
+    I can do, sorry.\"\nThis seems to enraged the old man, and you are not very happy
+    about how he reacted to your response, you're about to leave, but he stopped you.
+    Suddenly the doors of the casino shut close behind you and everybody stopped to
+    look at you. They certainly don't look human now.\t"
+  nextState: []
+  buttons:
+  - 
+  - 
+  - 
+  - 
+  - Continue
+  sceneToLoad: 3
+  shouldLoadButton: 1

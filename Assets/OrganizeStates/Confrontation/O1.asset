@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fd46c1bbdfd71e4ab5fc336061b9f07, type: 3}
+  m_Name: O1
+  m_EditorClassIdentifier: 
+  storyText: '"I''m here for business." You lied.
+
+    The figure seems like he is lost in his own thoughts, not paying attention to
+    what you are talking about. "Blah blah blah." He suddenly says, turning to you,
+    "You don''t have business here. This is an empty town, the biggest business here
+    is a convenient store. You shouldn''t have lied to me."'
+  nextState:
+  - {fileID: 11400000, guid: b763862c25d5dc444a78e1ae655c9950, type: 2}
+  buttons:
+  - Continue
+  - 
+  - 
+  - 
